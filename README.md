@@ -2,7 +2,7 @@
 Első lépések friss szerveren
 
 # Első körben megnézzük, vannak-e frissítések a rendszerre, vagy az összetevőire, a későbbi problémák elkerülése végett!
-# Telepítés elött ez mindig leyen az első!
+# Telepítés elött mindig ez legyen az első!
 sudo apt update
 sudo apt upgrade -y
 
